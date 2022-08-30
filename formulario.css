@@ -1,0 +1,12 @@
+main{
+	width: 940px;
+	margin: 0 auto;
+}
+
+form label{
+	display: block;
+}
+
+form input{
+	display: block;
+}
