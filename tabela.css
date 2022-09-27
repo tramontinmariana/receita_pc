@@ -1,0 +1,14 @@
+table{
+	margin: 20px 0 40px;
+}
+
+thead{
+	background: #5F9EA0;
+	color: #00FFFF;
+	font-weight: bold;
+}
+
+tr,td{
+	border: 2px solid #000000;
+	font-size: 25px;
+}
